@@ -10,8 +10,8 @@ répertoire « /var/www/html_tp1 ».
 /var/www/html_tp1.
 3. La page doit contenir toutes les balises suivantes (chaque balise doit être utilisée au
 moins une fois):
-➢ <html>, <head>, <title>, <body>, <p>, <hr>, <a href>, <img>, <br>, <b>, <i> et
-<u>.
+➢ "<html>, <head>, <title>, <body>, <p>, <hr>, <a href>, <img>, <br>, <b>, <i> et
+<u>."
 ➢ Le titre de la page doit être Page d’accueil TP1
 ➢ Vous devez ajouter un lien vers chaque page Web de ce TP à l’intérieur de la
 page index.html. Ce lien devrait ouvrir la page Web qui correspond à la
