@@ -15,7 +15,9 @@ moins une fois)
 page index.html. Ce lien devrait ouvrir la page Web qui correspond à la
 question permettant ainsi d’en tester son fonctionnement. Voir exemple à la
 dernière page de ce TP.
+
 -DEUXIÈME PARTIE – SITE WEB DES UTILISATEURS (10 POINTS)
+
 1. Créer un nouvel utilisateur tp1.
 2. Les pages Web de l’utilisateur tp1 devront être placées dans le répertoire:
 /home/tp1/www.
@@ -29,7 +31,9 @@ sudo setsebool -P httpd_enable_homedirs true
 utilisateurs. Astuce : Configurer le fichier userdir.conf.
 6. Configurer le serveur Apache pour qu’il prenne la page tp1.html en plus de
 index.html comme pages de défaut.
+
 -TROISIÈME PARTIE – AUTHENTIFICATION (20 POINTS)
+
 Les questions de cette partie se font dans le répertoire /var/www/html_tp1.
 Pour chaque numéro, vos tests doivent démontrer que votre site Web respecte
 chacune des conditions de la question.
